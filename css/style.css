@@ -1,0 +1,22 @@
+/* span es un contenedor en linea*/
+header h1 span{
+    color: red;
+}
+
+
+/* VERSION IMPRIMIR */
+@media print{
+    h1,h2{
+        display: none
+    }
+}
+
+/* AND
+DESDE y HASTA*/
+
+/* PANTALLA HORIZONTAL*/
+@media (orientation: landscape){
+}
+
+
+
