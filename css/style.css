@@ -4,19 +4,3 @@ header h1 span{
 }
 
 
-/* VERSION IMPRIMIR */
-@media print{
-    h1,h2{
-        display: none
-    }
-}
-
-/* AND
-DESDE y HASTA*/
-
-/* PANTALLA HORIZONTAL*/
-@media (orientation: landscape){
-}
-
-
-
